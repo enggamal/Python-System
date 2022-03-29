@@ -1,0 +1,3 @@
+3,omar,9000,25,old,devops,omar@gmail.com,01021674080,employee
+1,gamal,1000000000,200,senior,backend,gamal@gmail.com,1234567,admin
+2,ahmed,4000,22,sen,frontend,ahmed@gmail.com,12345678,employee
